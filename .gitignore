@@ -1,3 +1,6 @@
 notes
 node_modules
 .DS_Store
+
+server/.git
+server/.gitignore
